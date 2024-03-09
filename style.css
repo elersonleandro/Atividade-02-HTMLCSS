@@ -1,0 +1,15 @@
+.div1 {
+    background-color: #f0eee0; width: 500px; height: 500px;
+}
+.divFilha1{
+    background-color: #475231; width: 50%; height: 50%; position: relative;
+}
+.paragrafo {
+    color: white; background-color: blue; font-size: 25px; font-family: monospace; font-weight: bold;
+}
+.div2 {
+    background-color: rgb(13, 101, 130); width: 50%; height: 50vh;
+}
+.divFilha2 {
+    background-color: rgb(108, 11, 11); width: 75vw; height: 50%;
+}
